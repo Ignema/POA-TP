@@ -7,9 +7,9 @@ public class Main{
             Thread thread2 = new MyThread2();
             Thread thread3 = new Thread(new MyThread3());
 
-            thread1.run();
-            thread2.run();
-            thread3.run();
+            thread1.start();
+            thread2.start();
+            thread3.start();
 
     }
 
