@@ -1,7 +1,7 @@
 import javax.swing.*;
 import java.awt.*;
 
-public class Main{
+public class Q2{
 
     public static void main(String[] args){
 
